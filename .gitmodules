@@ -10,9 +10,6 @@
 [submodule "external/python-pcl"]
 	path = external/python-pcl
 	url = https://github.com/ShapeCompletion3D/python-pcl.git
-[submodule "external/Curvox"]
-	path = external/Curvox
-	url = https://github.com/CURG/Curvox.git
 [submodule "src/pc_object_completion_cnn"]
 	path = src/pc_object_completion_cnn
 	url = https://github.com/CURG/pc_object_completion_cnn.git
